@@ -1,0 +1,2 @@
+Le nombre de fruit est
+six
